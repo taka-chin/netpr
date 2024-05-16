@@ -52,3 +52,11 @@ xxx.xxx.xxx.10000000
 
 Level7
 ネットワーク部が異なる必要があり
+
+Level8
+0.0.0.0/0 => xxx.xxx.xxx.xxx
+
+Level10
+埋めれるところを埋める
+サブネットマスクの制約が厳しいって
+interface R11に注目する
